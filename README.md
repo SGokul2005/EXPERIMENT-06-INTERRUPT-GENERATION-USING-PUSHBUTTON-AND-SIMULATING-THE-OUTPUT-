@@ -89,6 +89,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   
 
 ## STM 32 CUBE PROGRAM :
+
+~~~
 #include "main.h"
 
 void SystemClock_Config(void);
@@ -158,6 +160,8 @@ void Error_Handler(void)
     {
     }
 }
+
+```
 
 
 
