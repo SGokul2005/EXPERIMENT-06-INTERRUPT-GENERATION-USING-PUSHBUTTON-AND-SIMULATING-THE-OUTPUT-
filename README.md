@@ -1,5 +1,6 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
-
+# Name: Gokul S
+# Reg.no:212223040051
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
@@ -161,7 +162,7 @@ void Error_Handler(void)
     }
 }
 
-```
+~~~
 
 
 
